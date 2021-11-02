@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'abcd-e-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9A36AA2B64B409F8282F45AA972396D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39CAB5F5CBED4A3A9792729E86A142AB }}
           package: .
